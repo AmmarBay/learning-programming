@@ -1,0 +1,3 @@
+Ini adalah hasil dari program.
+Terima kasih telah menggunakan program ini.
+Baris tambahan yang ditambahkan ke file.
