@@ -37,7 +37,6 @@ Mini project menggunakan module Python untuk menghitung:
 ```text
 [80, 85, 90, 75, 95]
 
-```text
 Hasil
 Total Nilai     : 425
 Rata-rata Nilai : 85.0
